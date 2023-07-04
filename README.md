@@ -4,6 +4,7 @@
 ## Download -> https://drive.google.com/file/d/1uvqR52S7byIXLFLJhRSK5O5V8gpeHfpw/view?usp=sharing
 
 ###  "Sea Men" is a game about pirates and British sailors battling on land and sea, racing to be the first to find the priceless treasure hidden in fortresses, caves, and tropical jungles. The players strategize and search for ways to overcome their opponents while having fun in the process.
+![My Image](SeaMen.png)
 
 # WW2 STORY
 ## Youtube video -> https://youtu.be/NPMtH-2ak8E
